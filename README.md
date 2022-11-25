@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C       13 mins         ███████████████████▓░░░░░   78.56 %
-C++     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
