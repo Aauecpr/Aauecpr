@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C             10 mins         ██████████▒░░░░░░░░░░░░░░   41.88 %
+C++           9 mins          ████████▓░░░░░░░░░░░░░░░░   35.30 %
+JSON          5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
