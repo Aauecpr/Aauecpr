@@ -11,7 +11,7 @@
 ### I've been working with
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
